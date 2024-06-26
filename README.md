@@ -152,4 +152,4 @@ Improvement idea:
 
 
 This automatic speech recognition task is part of the projects done during NLP bootcamp at Indonesia AI.
-Other projects during the NLP bootcamp can be found at https://github.com/RobyKoeswojo/Indonesia-AI
+
